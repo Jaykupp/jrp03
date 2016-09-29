@@ -1,5 +1,5 @@
 header {
-  background-color: #E0CEA0;
+  background-color: #F0B126;
   padding: 0;
   margin: 0;
 }
@@ -26,8 +26,9 @@ body {
    font-family: "arial black";
  }
 
+
 article {
-  margin: 1em;
+  margin: 1em
 }
 
  nav {
@@ -46,7 +47,7 @@ article {
  nav>a:hover {
    /*THis will style anchor tag inside of nav*/
    color: white;
-   background-color: #E0CEA0;
+   background-color: #F0B126;
  }
 
  footer{
@@ -66,9 +67,5 @@ article {
    margin: 0 .5em;
   }
   footer>a:hover {
-    color:green;
-  }
-
-  img{
-    text-align: center;
+    color: #2B7B7C;
   }
